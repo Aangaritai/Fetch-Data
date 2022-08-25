@@ -1,0 +1,19 @@
+.button{
+    padding:10px;
+    margin:20px;
+}
+
+img{
+    margin:20px;
+    width: 600px;
+    height: 500px;
+}
+
+h1{
+    font-weight: bold;
+    margin-left: 50px;
+}
+
+body{
+    background-color: gainsboro;
+}
